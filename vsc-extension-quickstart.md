@@ -16,8 +16,8 @@ const  log  =  online_log.log;
 ```
 
 The snnipets generate code for default log levels:
-| Prefix | Result |
-|--|--|
+| Prefix |Result |
+|---------------|---------------------|
 | `logd` &rarr; | `log('DEBUG', '');` |
 | `logt` &rarr; | `log('TRACE', '');` |
 | `logi` &rarr; | `log('INFO', '');` |
