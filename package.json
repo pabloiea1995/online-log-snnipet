@@ -2,12 +2,13 @@
     "name": "online-log-snnipets",
 
     "displayName": "online-log snnipets",
-    "description": "Make logginf iven easier! snnipets for the default log levels of online-log extension",
+    "description": "Make logging even easier! Snnipets for the default log levels of online-log npm extension https://www.npmjs.com/package/online-log",
     "version": "0.0.1",
     "publisher": "psanchezmvelarde",
     "engines": {
         "vscode": "^1.44.0"
     },
+    "repository": "https://github.com/pabloiea1995/online-log-snnipet",
     "categories": [
         "Snippets"
     ],
