@@ -1,8 +1,9 @@
 {
     "name": "online-log-snnipets",
+
     "displayName": "online-log snnipets",
     "description": "Make logging even easier! Snnipets for the default log levels of online-log npm extension https://www.npmjs.com/package/online-log",
-    "version": "0.1.0",
+    "version": "0.1.3",
     "publisher": "psanchezmvelarde",
     "engines": {
         "vscode": "^1.44.0"

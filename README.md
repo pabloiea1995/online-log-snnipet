@@ -1,9 +1,8 @@
 
 # online-log-snnipet 
 
-  
 
-this extensions includes a series of snnipets for the npm module online-log, to make it easier to write log code lines.
+This extensions includes a series of snnipets for the npm module online-log, to make it easier to write log code lines.
 
 ## Tutorial
 
