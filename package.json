@@ -1,0 +1,22 @@
+{
+    "name": "online-log-snnipets",
+
+    "displayName": "online-log snnipets",
+    "description": "Make logginf iven easier! snnipets for the default log levels of online-log extension",
+    "version": "0.0.1",
+    "publisher": "psanchezmvelarde",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

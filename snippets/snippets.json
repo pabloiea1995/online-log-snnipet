@@ -1,0 +1,52 @@
+{
+
+	"online-log debug":{
+		"scope": "javascript,typescript",
+		"prefix": "logd",
+		"body": [
+			"log('DEBUG', '$0');"
+		],
+		"description": "Creates debug log entry"
+	},
+	"online-log trace":{
+		"scope": "javascript,typescript",
+		"prefix": "logt",
+		"body": [
+			"log('TRACE', '$0');"
+		],
+		"description": "Creates trace log entry"
+	},
+	"online-log info":{
+		"scope": "javascript,typescript",
+		"prefix": "logi",
+		"body": [
+			"log('INFO', '$0');"
+		],
+		"description": "Creates info log entry"
+	},
+	"online-log warn":{
+		"scope": "javascript,typescript",
+		"prefix": "logw",
+		"body": [
+			"log('WARN', '$0');"
+		],
+		"description": "Creates warn log entry"
+	},
+	"online-log error":{
+		"scope": "javascript,typescript",
+		"prefix": "loge",
+		"body": [
+			"log('ERROR', '$0');"
+		],
+		"description": "Creates error log entry"
+	}
+	,
+	"online-log fatal":{
+		"scope": "javascript,typescript",
+		"prefix": "logf",
+		"body": [
+			"log('FATAL', '$0');"
+		],
+		"description": "Creates fatal log entry"
+	}
+}
